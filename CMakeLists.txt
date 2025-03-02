@@ -7,4 +7,5 @@ add_executable(
         ray_tracing main.cpp
         vec3.h
         color.h
+        ray.h
 )
