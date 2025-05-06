@@ -8,4 +8,8 @@ add_executable(
         vec3.h
         color.h
         ray.h
+        hittable.h
+        sphere.h
+        hittable_list.h
+        ray_tracing.h
 )
