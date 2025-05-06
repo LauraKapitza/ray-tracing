@@ -1,5 +1,5 @@
-#ifndef RAY_TRACING_RAY_TRACING_H
-#define RAY_TRACING_RAY_TRACING_H
+#ifndef RAY_TRACING_H
+#define RAY_TRACING_H
 
 #include <cmath>
 #include <iostream>
@@ -26,7 +26,8 @@ inline double degrees_to_radians(double degrees) {
 // Common Headers
 
 #include "color.h"
+#include "interval.h"
 #include "ray.h"
 #include "vec3.h"
 
-#endif //RAY_TRACING_RAY_TRACING_H
+#endif //RAY_TRACING_H

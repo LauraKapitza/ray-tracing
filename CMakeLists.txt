@@ -12,4 +12,5 @@ add_executable(
         sphere.h
         hittable_list.h
         ray_tracing.h
+        interval.h
 )
