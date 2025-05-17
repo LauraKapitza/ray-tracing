@@ -13,4 +13,5 @@ add_executable(
         hittable_list.h
         ray_tracing.h
         interval.h
+        camera.h
 )
