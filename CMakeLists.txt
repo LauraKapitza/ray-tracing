@@ -14,4 +14,5 @@ add_executable(
         ray_tracing.h
         interval.h
         camera.h
+        material.h
 )
